@@ -1,0 +1,26 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Welcome to the game of R O U L E T T E
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Which table would you like to play on? (American or European)? American
+
+
+Please enter your minimum bet amount: 5
+
+
+Please enter your maximum bet amount: 50000
+
+
+Please enter amount of spins you would like to do: 1000000
+
+
+ ~ ~ ~ ~ RESULTS ~ ~ ~ ~
+
+NET WINNINGS:          119520
+GREATEST PAYOUT:        40960
+GREATEST LOSS:          81920
+ROUNDS WON:             84941
+ROUNDS LOSS:            93683
+AVG PAYOUT:             27.08
+AVG LOSS:               23.28
